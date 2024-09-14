@@ -44,14 +44,13 @@
 button {
   height: 70px;
   font-size: 18px;
-  border: none;
+  border: var(--unique-border); /* Unique border for buttons */
   cursor: pointer;
   border-radius: 35px;
   width: 100%;
   transition: transform 0.3s ease-in-out, background-color 0.3s ease;
   background: var(--button-gradient);
   color: var(--black); /* Default text color for buttons */
-  border: var(--unique-border); /* Unique border for buttons */
 }
 
 button:hover {
@@ -63,7 +62,16 @@ button:active {
 }
 
 /* Specific styles for number buttons */
-#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #zero {
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#zero {
   color: var(--black); /* Dark color for numbers */
   background-color: var(--light-gray); /* Light background for contrast */
 }
