@@ -8,7 +8,7 @@ This pull request brings a touch of brilliance to the FreeCodeCamp JavaScript Ca
 ## Demo 📸
 
 
-![Demo](./assests/drumphoto.PNG)
+![Demo](./src/images/calculatorphoto.PNG)
 ![FreeCodeCamp](./assests/drumfreecodecamp.PNG)
 <br>
  [Live-link](https://darling-madeleine-3b4c04.netlify.app/ )
