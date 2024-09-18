@@ -17,7 +17,7 @@
   align-items: center;
   height: 100vh;
   padding: 20px;
-  background: url('/assests/download.jpeg') no-repeat center center/cover;
+  background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
   color: var(--white);
 }
 
