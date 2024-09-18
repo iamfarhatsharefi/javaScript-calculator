@@ -8,10 +8,10 @@ This pull request brings a touch of brilliance to the FreeCodeCamp JavaScript Ca
 ## Demo 📸
 
 
-![Demo](./src/images/calculatorphoto.PNG)
-![FreeCodeCamp](./assests/drumfreecodecamp.PNG)
+![Demo](./public/assests/calculatorphoto.PNG)
+![FreeCodeCamp](./public/assests/calculator%20freecodecamp.PNG)
 <br>
- [Live-link](https://darling-madeleine-3b4c04.netlify.app/ )
+ [Live-link](https://deploy-preview-1--comforting-shortbread-5df959.netlify.app )
 
 
 ## Technologies Used 🛠️
